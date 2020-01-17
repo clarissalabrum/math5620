@@ -2,9 +2,15 @@
 
 ## Task 1
 
+Sent the link to my Github home page in an email with the subject line Tasksheet 1.
+
 ## Task 2
 
+Added Joe Koebbe (username: jvkoebbe) as a collaborator on my math5620 repository and mentioned the creation of the repository in the Tasksheet 1 email.
+
 ## Task 3
+
+I will be using the Git Bash command line on windows. This was also mentioned in the Tasksheet 1 email.
 
 ## Task 4
 
@@ -13,8 +19,13 @@
           System.out.println("Hey Koebbe, I am going to use java for this course.");
       }
     }
+    
+[Link](https://github.com/clarissalabrum/math5620/blob/master/homework/hw1/Task4.java) to source code.
 
 ## Task 5
+
+The table of contents link was sent in the Tasksheet 1 email.
+[Table of Contents](https://github.com/clarissalabrum/math5620/blob/master/hw_toc.md)
 
 ## Task 6
 
