@@ -12,5 +12,10 @@
 
 ## Task 6
 
+Neumann boudary conditions are in the form of first derivatives (e.g. u'(0)=3 and u'(1)=5) while Dirichlet boundry conditions are of the form u(0)=4. Dirichlet boundry conditions can be considered through the usual finite difference methods while the Neumann boundry conditions require more consideration. To take the boundry conditions into account we need to use a finite difference approximation with order of error O(h^2). THis is typically done with one sided finite difference methods.
+
 [Wolfram Mathworld](http://mathworld.wolfram.com/BoundaryConditions.html)
+
 [Neumann](https://www.sciencedirect.com/topics/mathematics/neumann-boundary-condition)
+
+[Intro to BVP](https://people.sc.fsu.edu/~jpeterson/bvp.pdf)
