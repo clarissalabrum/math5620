@@ -2,6 +2,8 @@
 
 ## Task 1
 
+Made a Java class that will use LU Decomposition to solve an elliptic problem with Dirichlet boundary conditions.
+
 [Software Manuel for LUDecomp](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/LUDecomp.md)
 
 [Code for LUDecomp](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/LUDecomp.java)
@@ -15,21 +17,28 @@ excel sheet.
 
 Table of f(x) = 0, u(0) = 1, u(1) = 3
 
-![Task 2](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/Task2.png)
+![Task 2](Task2.png)
 
 ## Task 3
 
 Table of f(x) = 10sin(2PIx), u(0) = 0, u(1) = 0
 
-![Task 3](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/Task2.png)
+![Task 3](Task3.png)
 
 ## Task 4
 
 Table of f(x) = 10sin(2PIx), u(0) = 1, u(1) = 3
 
-![Task 4](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/Task2.png)
+![Task 4](Task4.png)
 
 ## Task 5
+
+Made a Java class that will use LU Decomposition to solve an elliptic problem with Neumann boundary conditions.
+
+[Software Manuel for NeumannLUDecomp](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/NeumannLUDecomp.md)
+
+[Code for NeumannLUDecomp](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/NeumannLUDecomp.java)
+
 
 ## Task 6
 
