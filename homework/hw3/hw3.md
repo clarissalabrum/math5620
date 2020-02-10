@@ -11,17 +11,29 @@
 The data for tasks 2, 3, and 4 can all be found on the following
 excel sheet.
 
+[Task 2, 3, and 4 data](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/HW3_data.xlsx)
 
+Table of f(x) = 0, u(0) = 1, u(1) = 3
+
+![Task 2](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/Task2.png)
 
 ## Task 3
 
+Table of f(x) = 10sin(2PIx), u(0) = 0, u(1) = 0
+
+![Task 3](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/Task2.png)
+
 ## Task 4
+
+Table of f(x) = 10sin(2PIx), u(0) = 1, u(1) = 3
+
+![Task 4](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/Task2.png)
 
 ## Task 5
 
 ## Task 6
 
-Neumann boudary conditions are in the form of first derivatives (e.g. u'(0)=3 and u'(1)=5) while Dirichlet boundry conditions are of the form u(0)=4. Dirichlet boundry conditions can be considered through the usual finite difference methods while the Neumann boundry conditions require more consideration. To take the boundry conditions into account we need to use a finite difference approximation with order of error O(h^2). THis is typically done with one sided finite difference methods.
+Neumann boundary conditions are in the form of first derivatives (e.g. u'(0)=3 and u'(1)=5) while Dirichlet boundary conditions are of the form u(0)=4. Dirichlet boundary conditions can be considered through the usual finite difference methods while the Neumann boundary conditions require more consideration. To take the boundary conditions into account we need to use a finite difference approximation with order of error O(h^2). THis is typically done with one sided finite difference methods.
 
 [Wolfram Mathworld](http://mathworld.wolfram.com/BoundaryConditions.html)
 
