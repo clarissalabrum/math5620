@@ -21,7 +21,7 @@ To create an instance of the class a statement of the following form is needed.
     new LUDecomp(n, f, alpha, beta, h);
     
 Where n, f, alpha, beta, and h were described in the input section. if n were to be 8, f(x)
-were defined to be 0, alpha is 1 and beta is 3. then the outout would look like the following.
+were defined to be 0, alpha is 1 and beta is 3. then the output would look like the following.
 
     Solution for 8 Mesh Points
     1.0

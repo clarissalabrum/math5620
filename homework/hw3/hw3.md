@@ -2,7 +2,16 @@
 
 ## Task 1
 
+[Software Manuel for LUDecomp](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/LUDecomp.md)
+
+[Code for LUDecomp](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/LUDecomp.java)
+
 ## Task 2
+
+The data for tasks 2, 3, and 4 can all be found on the following
+excel sheet.
+
+
 
 ## Task 3
 
