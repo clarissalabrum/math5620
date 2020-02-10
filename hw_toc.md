@@ -3,3 +3,4 @@
 ## Homework
 * [Homework 1](https://github.com/clarissalabrum/math5620/blob/master/homework/hw1/hw1.md)
 * [Homework 2](https://github.com/clarissalabrum/math5620/tree/master/homework/hw2)
+* [Homework 3](https://github.com/clarissalabrum/math5620/blob/master/homework/hw3/hw3.md)
