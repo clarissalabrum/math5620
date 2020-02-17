@@ -9,17 +9,17 @@ makes a tridiagional matrix.
 
 **Input:** 
 * int n - the size of mesh points used in the system of equations. (number of spaces between points)
-* double[] a - array of coefficents for the general linear equation.
+* double[] a - array of coefficients for the general linear equation.
 
 **Output:** a two dimensional array which is storing the tridiagional matrix
 
 **Usage/Example:**
 
-To use the linearTridiag method, a call as follows is nessesary. 
+To use the linearTridiag method, a call as follows is necessary. 
 
     double[][] A = TridiagMatrix.linearTridiag(a.length, a);
     
-a in this case is the array of coefficients and the method returns a two demensional array that is saved to the array A.
+a in this case is the array of coefficients and the method returns a two dimensional array that is saved to the array A.
 
 **Implementation/Code:** The following is the code for linearTridiag
 
