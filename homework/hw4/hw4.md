@@ -5,7 +5,7 @@
 The finite difference code for a basic general linear elliptic problem is linearTridiag. It takes an array of coefficients and returns a 
 tridiagional matrix in the form of a two dimensional array.
 
-[linearTridiag Code]()
+[linearTridiag Code](https://github.com/clarissalabrum/math5620/blob/master/homework/hw4/TridiagMatrix.java)
 
 [linearTridiag Software Manual](https://github.com/clarissalabrum/math5620/blob/master/homework/hw4/linearTridiag.md)
 
@@ -32,7 +32,7 @@ The exact solution is 1/6 x^3 - 1/12 x^4 - 1/12 x
 
 I made an excel sheet recording the data.
 
-[Task2 Excel Data]()
+[Task2 Excel Data](https://github.com/clarissalabrum/math5620/blob/master/homework/hw4/Task2.xlsx)
 
 The average difference between them is 0.00041 which is about 4h^2.
 
@@ -47,7 +47,7 @@ For this problem:
 * k(x) = sin(pix)
 * n = 100
 
-[Task3 Excel Data]()
+[Task3 Excel Data](https://github.com/clarissalabrum/math5620/blob/master/homework/hw4/Task3.xlsx)
 ![Task3](Task3.png)
 
 ## Task 4
@@ -60,15 +60,15 @@ given array and run the code.
 
 Only code needed to write was linearTridiag.
 
-[linearTridiag Software Manual]()
+[linearTridiag Software Manual](https://github.com/clarissalabrum/math5620/blob/master/homework/hw4/linearTridiag.md)
 
 Previous methods in TridiagMatrix Class were modified
 
-[tridiag Software Manual]()
+[tridiag Software Manual](https://github.com/clarissalabrum/math5620/blob/master/homework/hw2/tridiag.md)
 
-[rhs Software Manual]()
+[rhs Software Manual](https://github.com/clarissalabrum/math5620/blob/master/homework/hw2/rhs.md)
 
-[solver SoftwareManual]()
+[solver SoftwareManual](https://github.com/clarissalabrum/math5620/blob/master/homework/hw2/solver.md)
 
 ## Task 6
 
