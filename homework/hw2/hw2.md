@@ -10,6 +10,8 @@ Created a class in Java that will create a tridiagonal matrix object in which yo
 
 The alogorithm for solving the ellipic problem is a method called "solver" included in the TridiagMatrix class. It needs to be given the rhs array and it will return its solution.
 
+[Solver Software Manual](https://github.com/clarissalabrum/math5620/blob/master/homework/hw2/solver.md)
+
 ## Task 3
 
 [TridiagMatrix Software Manual](https://github.com/clarissalabrum/math5620/blob/master/homework/hw2/TridiagMatrix%20_SM.md)
