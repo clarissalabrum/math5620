@@ -17,3 +17,5 @@
 [rhs](https://github.com/clarissalabrum/math5620/blob/master/homework/hw2/rhs.md)
 
 [solver](https://github.com/clarissalabrum/math5620/blob/master/homework/hw2/solver.md)
+
+[rateOfConverg](https://github.com/clarissalabrum/math5620/blob/master/homework/hw4/rateOfConverg.md)
