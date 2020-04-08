@@ -19,3 +19,11 @@
 [solver](https://github.com/clarissalabrum/math5620/blob/master/homework/hw2/solver.md)
 
 [rateOfConverg](https://github.com/clarissalabrum/math5620/blob/master/homework/hw4/rateOfConverg.md)
+
+## Pentadiagional Matrix
+
+[pentadiag](https://github.com/clarissalabrum/math5620/blob/master/homework/hw5/pentadiag.md)
+
+[pentaRHS](https://github.com/clarissalabrum/math5620/blob/master/homework/hw5/pentaRHS.md)
+
+[jacobi](https://github.com/clarissalabrum/math5620/blob/master/homework/hw5/Jacobi.md)
