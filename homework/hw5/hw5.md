@@ -59,7 +59,20 @@ Initialize right hand side - [pentaRHS]()
 
 ## Task 4
 
+[Jacobi Routine](https://github.com/clarissalabrum/math5620/blob/master/homework/hw5/Jacobi.md)
+
 ## Task 5
+
+[runner code](https://github.com/clarissalabrum/math5620/blob/master/homework/hw5/Task5.java)
+
+Using the runner code will provide a solution.
+
+For this problem the following results were given.
+
+      iterations: 13
+      2.50  6.50  2.25
+      3.00 17.00  9.50
+     -7.00  3.00  4.00
 
 ## Task 6
 
