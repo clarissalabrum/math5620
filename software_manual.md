@@ -27,3 +27,7 @@
 [pentaRHS](https://github.com/clarissalabrum/math5620/blob/master/homework/hw5/pentaRHS.md)
 
 [jacobi](https://github.com/clarissalabrum/math5620/blob/master/homework/hw5/Jacobi.md)
+
+## Enneadiagional (9) Matrix
+
+[enneadiag](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/enneadiag.md)
