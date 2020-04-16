@@ -4,6 +4,18 @@ Working on it I promise!!!
 
 ## Task 1
 
+Using the [runner code](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/Task1.java). The problem is solved using the 
+[Gauss Seidel Method](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/gaussSeidel.md)
+
+These are the results:
+
+    iterations: 23
+     2.50  6.50  2.25
+     3.00 17.00  9.50
+    -7.00  3.00  4.00
+    
+These mathch the results of the jacobi iteration in Tasksheet 5.
+
 ## Task 2
 
 ## Task 3
