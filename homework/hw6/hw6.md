@@ -10,6 +10,10 @@ Working on it I promise!!!
 
 ## Task 4
 
+Create Main Matrix [enneadiag](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/enneadiag.md)
+
+Create RHS Matrix [enneaRHS](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/enneaRHS.md)
+
 ## Task 5
 
 ## Task 6
