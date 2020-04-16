@@ -30,8 +30,12 @@
 
 [gaussSiedel](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/gaussSeidel.md)
 
+[conjugateGradient](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/conjugateGradient.md)
+
 ## Enneadiagional (9) Matrix
 
 [enneadiag](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/enneadiag.md)
 
 [enneaRHS](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/enneaRHS.md)
+
+[jacobi](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/jacobi.md)
