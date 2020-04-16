@@ -18,11 +18,10 @@ These mathch the results of the jacobi iteration in Tasksheet 5.
 
 ## Task 2
 
-[conjugateGradient]() doesn't work yet, working on it.
-
+[conjugateGradient](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/conjugateGradient.md)
 ## Task 3
 
-Using this [runner code](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/Task3.java) with [conjugateGradient]()
+Using this [runner code](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/Task3.java) with [conjugateGradient](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/conjugateGradient.md)
 solves this problem.
 
 ## Task 4
