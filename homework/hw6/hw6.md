@@ -1,7 +1,5 @@
 # Homework 6
 
-Working on it I promise!!!
-
 ## Task 1
 
 Using the [runner code](https://github.com/clarissalabrum/math5620/blob/master/homework/hw6/Task1.java). The problem is solved using the 
